@@ -1,6 +1,7 @@
 <h1 align="center"> Hello, I'm Fernando Jesus 👋 </h1>
 <h3 align="center">🚀 Frontend Software Engineer 🚀</h3>
 
+<br><br>
 
 ### ✨ Languages and Tools currently using:
 
@@ -13,7 +14,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br><br>
+<br>
 
 ### ✨ Learning progress:
 
@@ -21,7 +22,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-<br><br>
+<br>
 
 ### Some Statistics About Me
 

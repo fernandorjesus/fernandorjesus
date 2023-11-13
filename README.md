@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Fernando Jesus </h1>
-<h3 align="center">🚀 Frontend Software Engineer 🚀</h3>
+<h3 align="center">🚀 Software Engineer 🚀</h3>
 
 <br>
 
